@@ -1,0 +1,57 @@
+* {
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+
+    background: linear-gradient(to top, #43005c, #0be0a0);
+    min-height: 100vh;
+    display: grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+
+
+.to-do-list {
+
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:2rem;
+    padding:2rem;
+}
+
+input {
+
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+ button {
+
+    padding:1em;
+    border-radius: 5px;
+    margin:2px;
+    cursor: pointer;
+    
+ }
+
+ .delete-button {
+
+    background-color: rgba(255, 132, 132, 0.985);
+ }
+
+ .add-button {
+
+    background-color: rgb(149, 250, 149);
+ }
+
+ol li {
+
+    color:white;
+}
