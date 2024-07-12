@@ -1,3 +1,3 @@
 # React + Vite
 First React Project.
-This is small to-do-list app to learn and test React knowledge. Nothing uncommon.
+This is small and simple to-do-list app to practice and test my React knowledge.
